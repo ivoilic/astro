@@ -1,5 +1,14 @@
 # @astrojs/vercel
 
+## 3.2.1
+
+### Patch Changes
+
+- [#6484](https://github.com/withastro/astro/pull/6484) [`700a55549`](https://github.com/withastro/astro/commit/700a55549925e2a0ef2da378a20a2a5d35c53b93) Thanks [@matthewp](https://github.com/matthewp)! - Add back support for Astro.clientAddress
+
+- Updated dependencies [[`a9a6ae298`](https://github.com/withastro/astro/commit/a9a6ae29812339ea00f3b9afd3de09bd9d3733a9), [`bfd67ea74`](https://github.com/withastro/astro/commit/bfd67ea749dbc6ffa7c9a671fcc48bea6c04a075), [`f6eddffa0`](https://github.com/withastro/astro/commit/f6eddffa0414d54767e9f9e1ee5a936b8a20146b), [`d637d1ea5`](https://github.com/withastro/astro/commit/d637d1ea5b347b9c724adc895c9006c696ac8fc8), [`77a046e88`](https://github.com/withastro/astro/commit/77a046e886c370b737208574b6934f5a1cf2b177)]:
+  - astro@2.1.3
+
 ## 3.2.0
 
 ### Minor Changes
